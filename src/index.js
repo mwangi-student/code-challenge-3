@@ -136,6 +136,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // Fetch the first movie's details on page load
   fetchFirstMovieDetails();
 
-  // Fetch all films for the menu on page load
-  fetchAllFilms();
+// Fetch all films for the menu on page load
+fetchAllFilms();
 });
